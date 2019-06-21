@@ -9,7 +9,7 @@ My solutions to the problem sets of CS50 - Harvard's Introduction to Computer Sc
   * [mario](/pset1/mario/more)
 - [Problem Set 2](/pset2)
   * [caesar](/pset2/caesar)
-  * [vigenere](/pset2/vigenere)
+  * [vigenère](/pset2/vigenère)
   * [crack](/pset2/crack)
 - [Problem Set 3](/pset3)
   * [whodunit](/pset3/whodunit)
