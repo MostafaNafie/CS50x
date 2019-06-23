@@ -3,16 +3,19 @@ My solutions to the problem sets of CS50 - Harvard's Introduction to Computer Sc
 
 ## Problem Sets
 
-- [Problem Set 1](/pset1)
+- [Problem Set 1:](/pset1)
   * [hello](/pset1/hello)
   * [credit](/pset1/credit)
   * [mario](/pset1/mario/more)
-- [Problem Set 2](/pset2)
+- [Problem Set 2:](/pset2)
   * [caesar](/pset2/caesar)
   * [vigenère](/pset2/vigenère)
   * [crack](/pset2/crack)
-- [Problem Set 3](/pset3)
+- [Problem Set 3:](/pset3)
   * [whodunit](/pset3/whodunit)
   * resize
     + [less](/pset3/resize/less)
   * [recover](/pset3/recover)
+- [Problem Set 4:](/pset4)
+  * speller
+    + [hash table](/pset3/speller/hashtable)
