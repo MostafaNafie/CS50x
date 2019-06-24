@@ -18,4 +18,5 @@ My solutions to the problem sets of CS50 - Harvard's Introduction to Computer Sc
   * [recover](/pset3/recover)
 - [Problem Set 4:](/pset4)
   * speller
-    + [hash table](/pset3/speller/hashtable)
+    + [hash table](/pset4/speller/hash%20table)
+    + [trie](/pset4/speller/trie)
