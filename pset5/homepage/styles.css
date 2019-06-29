@@ -1,0 +1,16 @@
+body
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+ul
+{
+    text-align: start;
+}
+img
+{
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+}

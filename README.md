@@ -1,6 +1,8 @@
 # CS50x
 My solutions to the problem sets of CS50 - Harvard's Introduction to Computer Science.
 
+You should always solve the problem sets yourself following the code of honor.
+
 ## Problem Sets
 
 - [Problem Set 1:](/pset1)
@@ -20,3 +22,5 @@ My solutions to the problem sets of CS50 - Harvard's Introduction to Computer Sc
   * speller
     + [hash table](/pset4/speller/hash%20table)
     + [trie](/pset4/speller/trie)
+- [Problem Set 5:](/pset5)
+  * [homepage](/pset5/homepage)
