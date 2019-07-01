@@ -27,3 +27,4 @@ You should always solve the problem sets yourself following the code of honor.
 - [Problem Set 6:](/pset6)
   * [hello](/pset6/hello)
   * [mario](/pset6/mario)
+  * [cash](/pset6/cash)
