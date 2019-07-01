@@ -24,3 +24,6 @@ You should always solve the problem sets yourself following the code of honor.
     + [trie](/pset4/speller/trie)
 - [Problem Set 5:](/pset5)
   * [homepage](/pset5/homepage)
+- [Problem Set 6:](/pset6)
+  * [hello](/pset6/hello)
+  * [mario](/pset6/mario)
