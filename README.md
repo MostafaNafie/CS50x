@@ -28,3 +28,4 @@ You should always solve the problem sets yourself following the code of honor.
   * [hello](/pset6/hello)
   * [mario](/pset6/mario)
   * [cash](/pset6/cash)
+  * [credit](/pset6/credit)
