@@ -30,3 +30,4 @@ You should always solve the problem sets yourself following the code of honor.
   * [cash](/pset6/cash)
   * [credit](/pset6/credit)
   * [caesar](/pset6/caesar)
+  * [bleep](/pset6/bleep)
