@@ -14,7 +14,7 @@ void checkCreditCard(long creditCardNumber)
     // number of digits
     int digitsCount = 0;
     
-    // a while loop whick runs while the creditCardNumber not equal zero
+    // a while loop which runs while the creditCardNumber not equal zero
     // if creditCardNumber equals any number other than zero it returns true
     while(creditCardNumber)
     {
