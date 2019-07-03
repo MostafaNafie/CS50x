@@ -31,3 +31,5 @@ You should always solve the problem sets yourself following the code of honor.
   * [credit](/pset6/credit)
   * [caesar](/pset6/caesar)
   * [bleep](/pset6/bleep)
+- [Problem Set 7:](/pset7)
+  * [similarities](/pset7/similarities)
