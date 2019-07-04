@@ -33,3 +33,4 @@ You should always solve the problem sets yourself following the code of honor.
   * [bleep](/pset6/bleep)
 - [Problem Set 7:](/pset7)
   * [similarities](/pset7/similarities)
+  * [survey](/pset7/survey)

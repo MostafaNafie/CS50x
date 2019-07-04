@@ -1,0 +1,64 @@
+{% extends "layout.html" %}
+
+{% block main %}
+
+    <!-- http://getbootstrap.com/docs/4.1/content/typography/ -->
+    <h1 class="mb-3">Form</h1>
+
+    <!-- http://getbootstrap.com/docs/4.1/components/forms/ -->
+    <form action="/form" method="post" class="needs-validation col-md-5" novalidate>
+
+        <div class="form-group">
+            <label for="uname">Student Name:</label>
+            <input type="text" autocomplete="off" autofocus class="form-control" id="uname" placeholder="Enter your name" name="name" required>
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field.</div>
+          </div>
+          <div class="form-group">
+            <label for="pwd">College:</label>
+            <input type="text"  autocomplete="off" class="form-control" id="pwd" placeholder="Enter your college" name="college" required>
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field.</div>
+          </div>
+          <div class="form-group">
+            <label for="sel1">Select Grade:</label>
+            <select class="form-control selectpicker" id="sel1" name="year">
+              <option value="First">1</option>
+              <option value="Second">2</option>
+              <option value="Third">3</option>
+              <option value="Fourth">4</option>
+            </select>
+          </div>
+          <div class="form-group form-check">
+            <label class="form-check-label">
+              <input class="form-check-input" type="checkbox" name="cs50" value="true"> Did you take CS50?
+            </label>
+          </div>
+        <button class="btn btn-primary" type="submit">Submit</button>
+
+    </form>
+
+    <script>
+
+        // Disable form submissions if there are invalid fields
+(function() {
+  'use strict';
+  window.addEventListener('load', function() {
+    // Get the forms we want to add validation styles to
+    var forms = document.getElementsByClassName('needs-validation');
+    // Loop over them and prevent submission
+    var validation = Array.prototype.filter.call(forms, function(form) {
+      form.addEventListener('submit', function(event) {
+        if (form.checkValidity() === false) {
+          event.preventDefault();
+          event.stopPropagation();
+        }
+        form.classList.add('was-validated');
+      }, false);
+    });
+  }, false);
+})();
+
+    </script>
+
+{% endblock %}
