@@ -1,6 +1,11 @@
 # CS50x
 My solutions to the problem sets of CS50 - Harvard's Introduction to Computer Science.
 
+- Solved 8 problem sets in C, Python, SQL, JavaScript, HTML and CSS. 
+- Dealing with pointers, dynamic memory management, algorithms, data structures, AJAX, MVC and SQLite databases.
+- Tools like phpliteadmin, http-server and UNIX Shell.
+- Frameworks and libraries like Flask, jQuery and Bootstrap.
+
 ## Problem Sets
 
 - [Problem Set 1: C](/pset1)
